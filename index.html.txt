@@ -1,4 +1,0 @@
-<hmtl>
-<head></head>
-<body>hi this is kaushal kumar</body>
-</html>
